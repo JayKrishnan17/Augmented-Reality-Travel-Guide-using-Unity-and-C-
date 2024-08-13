@@ -1,0 +1,258 @@
+{
+	"TargetList": [
+		{
+			"Name": "Livingroom",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 0.84,
+				"y": 0.00,
+				"z": 0.76
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Diningroom",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -2.9,
+				"y": 0.00,
+				"z": 2.51
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 270.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "BedRoom1",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 0.48,
+				"y": 0.00,
+				"z": 5.28
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 270.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Kitchen",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -0.8,
+				"y": 0.00,
+				"z": 5.63
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 90.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Toilet1",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 1.33,
+				"y": 0.00,
+				"z": 3.96
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Stairs",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -1.49,
+				"y": 0.00,
+				"z": -0.449
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 180.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Porch",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -0.920,
+				"y": 0.00,
+				"z": -6.45
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 270.0,
+				"z": 0.0
+			}
+		},
+
+		{
+			"Name": "UpperLivingRoom",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 7.64,
+				"y": 1.00,
+				"z": 1.07
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 270.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "BedRoom2",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 12.35,
+				"y": 1.00,
+				"z": 0.67
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 270.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "BedRoom3",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 11.13,
+				"y": 1.00,
+				"z": 4.51
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 270.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "BedRoom4",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 7.66,
+				"y": 1.00,
+				"z": 4.37
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 270.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Toilet2",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 8.14,
+				"y": 1.00,
+				"z": 2.82
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Toilet3",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 13.32,
+				"y": 1.00,
+				"z": 2.82
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Balcony4",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 8.04,
+				"y": 1.00,
+				"z": 7.45
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 270.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Balcony3",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 12.74,
+				"y": 1.00,
+				"z": 7.45
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "OfficeRoom",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 11.78,
+				"y": 0.00,
+				"z": -5.84
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "StoreRoom",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 8.02,
+				"y": 0.00,
+				"z": -6.8
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+
+		{
+			"Name": "Stairs2",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 8.85,
+				"y": 0.00,
+				"z": -4.87
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 270.0,
+				"z": 0.0
+			}
+		}
+	]
+}
